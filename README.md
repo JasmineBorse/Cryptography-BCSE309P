@@ -3,7 +3,7 @@
 ## Codes
 
 
-1. **AES**: Advanced Encryption Standard
+1. **AES**: Advanced Encryption Standard (Using socket programming)
 2. **DES**: Data Encryption Standard
 3. **DSS**: Digital Signature Standard
 4. **DiffieHellman**: Diffie-Hellman Key Exchange (or Diffie-Hellman Algorithm)
