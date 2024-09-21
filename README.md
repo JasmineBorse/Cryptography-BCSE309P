@@ -1,8 +1,9 @@
-### BCSE309P Cryptography Lab codes
+### BCSE309P Cryptography Lab 
+These are the codes for the  Cryptography and Network Security Lab Assignments.
 
 ## Codes
 
-
+codes 
 1. **AES**: Advanced Encryption Standard (Using socket programming)
 2. **DES**: Data Encryption Standard
 3. **DSS**: Digital Signature Standard
